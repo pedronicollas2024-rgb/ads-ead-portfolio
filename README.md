@@ -83,4 +83,4 @@ Repositório com os exercícios, projetos e anotações desenvolvidos ao longo d
 
 ## 🔗 Conecte-se
 
-Acompanhe o progresso também no [LinkedIn](#).
+Acompanhe o progresso também no [LinkedIn](www.linkedin.com/in/pedronicollassousa).
