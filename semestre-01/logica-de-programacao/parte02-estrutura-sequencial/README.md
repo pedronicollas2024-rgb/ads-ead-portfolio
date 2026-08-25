@@ -1,36 +1,42 @@
-\# Parte 02 - Estrutura Sequencial: Variáveis, Comandos Básicos e Operadores Aritméticos
+# 📘 Parte 01 — Algoritmos e Fluxogramas
 
+> Exercícios de fixação sobre algoritmos e fluxogramas em **estrutura sequencial** (sem seleção ou repetição).
 
+Cada exercício contém:
+- 🖼️ Fluxograma feito no draw.io
+- 📝 Pseudocódigo em Portugol
 
-Exercício de fixação sobre variáveis, atribuição, entrada e saída de dados.
+---
 
+## Exercícios
 
+### 1️⃣ Par ou Ímpar
+Calcula o resto da divisão de um número por 2.
 
-\## Exercício
+| Arquivo | Descrição |
+|---|---|
+| `ex1-par-impar.png` | Fluxograma |
+| `ex1-par-impar.por` | Pseudocódigo |
 
+### 2️⃣ Celsius para Fahrenheit
+Converte uma temperatura de Celsius para Fahrenheit: `F = (C × 9/5) + 32`
 
+| Arquivo | Descrição |
+|---|---|
+| `ex2-celsius-fahrenheit.png` | Fluxograma |
+| `ex2-celsius-fahrenheit.por` | Pseudocódigo |
 
-\### 1. Média Ponderada de 3 Notas
+### 3️⃣ Média de Duas Notas
+Calcula a média aritmética entre duas notas.
 
-Calcula a média ponderada de 3 notas, com pesos fixos (2, 3 e 5).
+| Arquivo | Descrição |
+|---|---|
+| `ex3-media-notas.png` | Fluxograma |
+| `ex3-media-notas.por` | Pseudocódigo |
 
+---
 
-
-Fórmula: `Média = (nota1×2 + nota2×3 + nota3×5) / 10`
-
-
-
-\- Fluxograma: `ex1-media-ponderada.png`
-
-\- Pseudocódigo: `ex1-media-ponderada.por`
-
-
-
-\## Aprendizados
-
-\- Diferença entre média simples e média ponderada
-
-\- Conceito de atribuição de variáveis
-
-\- Boas práticas de tipagem (uso de `real` para valores com casas decimais)
-
+## 🧠 Aprendizados
+- Diferença entre estrutura sequencial, seleção e repetição
+- Símbolos padrão de fluxograma (início/fim, entrada/saída, processo)
+- Fluxo de dados: entrada → processamento → memória → saída
