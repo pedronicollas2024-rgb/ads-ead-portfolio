@@ -27,8 +27,8 @@ Repositório com os exercícios, projetos e anotações desenvolvidos ao longo d
 
 | UC | Status |
 |---|:---:|
-| [Lógica de Programação](./semestre-01/logica-de-programacao) | 🟡 Em andamento |
-| [Linguagem de Programação (Python)](./semestre-01/linguagem-programacao-python) | ⚪ Não iniciado |
+| [Lógica de Programação](./semestre-01/logica-de-programacao) | ✅ Concluído |
+| [Linguagem de Programação (Python)](./semestre-01/linguagem-programacao-python) | 🟡 Em andamento |
 | [Fundamentos de Banco de Dados](./semestre-01/fundamentos-banco-dados) | ⚪ Não iniciado |
 | [UX & Design Thinking](./semestre-01/ux-design-thinking) | ⚪ Não iniciado |
 | [Soft Skills](./semestre-01/soft-skills) | ⚪ Não iniciado |
