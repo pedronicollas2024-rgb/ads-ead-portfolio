@@ -12,7 +12,7 @@ Declaração de variáveis representando os 4 tipos primitivos mais comuns em Py
 | `ex1-tipos-dados.py` | Código-fonte |
 
 ## Aprendizados
-- Diferença entre `str`, `int`, `float` e `bool`
+- Diferença entre `string`, `int`, `float` e `bool`
 - Uso do IDLE (Shell e Editor) para escrever e executar código Python
 - Sintaxe básica de declaração de variáveis em Python
 
