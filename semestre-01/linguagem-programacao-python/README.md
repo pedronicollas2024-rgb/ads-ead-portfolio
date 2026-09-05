@@ -6,9 +6,9 @@ Disciplina focada em Python, cobrindo desde conceitos iniciais e ambiente de des
 
 | Parte | Tema | Status |
 |---|---|:---:|
-| [Parte 01](./parte01-introducao-conceitos-iniciais) | Introdução à disciplina e conceitos iniciais | 🟡 Em andamento |
-| Parte 02 | Ambiente de desenvolvimento, tipos de dados e variáveis | ⚪ Não iniciado |
-| Parte 03 | Funções embutidas, entrada/saída, operadores aritméticos | ⚪ Não iniciado |
+| [Parte 01](./parte01-introducao-conceitos-iniciais) | Introdução à disciplina e conceitos iniciais | ✅ |
+| [Parte 02](./parte02-tipos-dados-variaveis) | Ambiente de desenvolvimento, tipos de dados e variáveis | ✅ |
+| [Parte 03](./parte03-funcoes-entrada-saida-operadores) | Funções embutidas, entrada/saída, operadores aritméticos | ✅ |
 | Parte 04 | Operadores relacionais/lógicos, seleção simples e composta | ⚪ Não iniciado |
 | Parte 05 | Seleção aninhada e encadeada | ⚪ Não iniciado |
 | Parte 06 | Criação de funções e escopo de variáveis | ⚪ Não iniciado |
